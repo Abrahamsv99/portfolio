@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.7c4492c8.css",
+    "main.js": "/portfolio/static/js/main.ce32bd29.js",
+    "static/media/AbrahamSanchezCV.pdf": "/portfolio/static/media/AbrahamSanchezCV.191e3fbd89c4c89c0d78.pdf",
+    "index.html": "/portfolio/index.html",
+    "main.7c4492c8.css.map": "/portfolio/static/css/main.7c4492c8.css.map",
+    "main.ce32bd29.js.map": "/portfolio/static/js/main.ce32bd29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c4492c8.css",
+    "static/js/main.ce32bd29.js"
+  ]
+}
